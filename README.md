@@ -13,3 +13,7 @@ A collection of small modules and classes that can be handy in WP development
 - Copy the `flexi-mu` directory and the `flexi-mu-loader.php` file into the `/wp-content/mu-plugins` directory
     - _Create the `mu-plugins` directory if not exists in `wp-content`_
 - Check the plugin in the `WP Admin -> Plugins -> Must use` tab
+
+## Changelog
+
+[illion-it-group/flexi-wp-mu-plugins-release/CHANGELOG.md](https://github.com/illion-it-group/flexi-wp-mu-plugins-release/blob/main/CHANGELOG.md)
