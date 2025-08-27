@@ -1,3 +1,10 @@
+# v1.3.2
+
+- Improved `MySQL` database handling
+- Improved error handling
+
+---
+
 # v1.3.1
 
 - Fixed API header type error
