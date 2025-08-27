@@ -1,3 +1,9 @@
+# v1.3.3
+
+- Fixed double init hook
+
+---
+
 # v1.3.2
 
 - Improved `MySQL` database handling
